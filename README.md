@@ -58,6 +58,19 @@ If step 3 shows 0 for every profile, the target profile contains all the mail. O
 - The source profile is never modified.
 - Requires Python 3.8+ from the standard library only. No network access.
 
+## Support
+
+If this project saves you time, you can support its development:
+
+- **GitHub Sponsors:** https://github.com/sponsors/shimomurakei
+- **Monero (XMR):**
+
+```
+847ncPxR5DhGBtrafVyePuDiht33aiYztGWbGAn36BG11Kdnju4UnxVXbsrnbaAYRwMswdcjjbioPF9ipt3oVXmXS1v69w1
+```
+
+<img src="docs/monero-qr.png" alt="Monero QR code" width="180">
+
 ## License
 
 thunderbird-profile-merge — Copyright (C) 2026 .kei
@@ -89,3 +102,5 @@ Thunderbird musi być zamknięty. Bez `wykonaj` skrypt tylko pokazuje plan. Po s
 **`wykonaj` nieodwracalnie usuwa duplikaty z profilu docelowego.** Najpierw sprawdź na kopii profilu.
 
 **Licencja:** GPL-3.0-or-later (tekst w `LICENSE`). Każda przeróbka musi zachować informację o autorze z linkiem https://github.com/shimomurakei/thunderbird-profile-merge. Prośba, nie warunek licencji: jeśli budujesz na tym projekcie, daj znać w zgłoszeniu (issue) w repozytorium, to możemy współpracować.
+
+**Wsparcie:** GitHub Sponsors https://github.com/sponsors/shimomurakei albo Monero (XMR): `847ncPxR5DhGBtrafVyePuDiht33aiYztGWbGAn36BG11Kdnju4UnxVXbsrnbaAYRwMswdcjjbioPF9ipt3oVXmXS1v69w1` (kod QR w sekcji Support).
